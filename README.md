@@ -1,6 +1,6 @@
-# Drinkapedia Website(www.drinkapedia.tech)
+# Drinkapedia Website (www.drinkapedia.tech)
 
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+Our website uses the template: [Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Preview
 
